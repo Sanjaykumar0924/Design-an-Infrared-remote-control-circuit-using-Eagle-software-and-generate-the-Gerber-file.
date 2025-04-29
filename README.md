@@ -1,5 +1,7 @@
 # Design-an-Infrared-remote-control-circuit-using-Eagle-software-and-generate-the-Gerber-file.
 ## Exp 4: Design an Infrared remote control circuit using Eagle software
+## Name: Sharon Harshini L M
+## Reg.No.: 212223040193
 ## AIM:
 To design the schematic and PCB layout diagram of an Infrared remote control circuit using Eagle software.
 
